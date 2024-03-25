@@ -1,0 +1,22 @@
+{
+  "mockDefaultLocation": "TORONTO",
+  "torontoStoreCount": 304,
+  "storesPerPage": 6,
+  "locationAutoComplete": 5,
+  "torontoStorePhones": "<div id=\"marker-416",
+  "durhamStorePhones": "<div id=\"marker-905",
+  "postalCode": "L1Z 1G1",
+  "postalCodeResult": "AJAX",
+  "searchCity":"Whitby",
+  "searchCityResult": "WHITBY",
+  "searchCityProv": "Whitby, Ontario",
+  "streetAddress": "'Whitby abilities centre",
+  "searchProduct": "bathtub",
+  "searchProductResult": "Bathtub",
+  "dimension": "36 x 72",
+  "highlightSearch": "Acrylic Alcove",
+  "highlightSearchResult": "<b>Acrylic Alcove</b>",
+  "noResultResponse": "Sorry no results found",
+  "frenchSearch": "baignoire",
+  "frenchSearchAccent": "alcôve"
+}
